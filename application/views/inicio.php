@@ -72,7 +72,7 @@ var myLatLng = {lat:18.261956, lng:-70.353342 };
       }
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxPxCHnZDfIQLz6c_LZtnSlIl0bqU_4YA&libraries=places&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=YourApiKey&libraries=places&callback=initMap">
     </script>
   </div>
 </body>
